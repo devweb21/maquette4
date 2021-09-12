@@ -1,0 +1,331 @@
+body{
+    background-color: rgb(226, 222, 222);
+    overflow:scroll;
+     margin:0;
+     padding:0;
+     width:100%;
+     /*height:100vh;*/
+     font-family:arial;
+}
+
+.a{
+    width: 95%;
+    margin:auto;
+    height:1200px;
+    background-color:
+    #f1f8e9;
+    border-radius:25px;
+}
+
+.menu{
+    /*border: solid;*/
+    /*margin-top:3px;*/
+    width:100%;
+    height:80px;
+    background-color:
+    #0091ea;
+   /* border-radius:10px;*/ 
+   border-radius:25px 25px 0px 0px;
+   
+}
+
+
+.menu1{
+       text-transform: uppercase;
+      color:white;
+      padding:15px;
+      display:flex;
+      font-family:arial;
+      font-weight: bolder;
+}
+
+.menu1:hover{color: rgb(24, 141, 33);}
+
+
+.menu2{
+    float:right;
+    display:block;
+   /* background-color: chartreuse;*/
+    display: flex;
+    margin-left:20% ;
+}
+
+.menu3{display: flex;padding:5px;
+       margin-left:205px;
+}
+
+ul{
+    display:flex;
+    list-style:none;
+    padding:15px;
+    padding:auto;
+}
+
+li{
+    padding:15px;
+    color:white;
+    font-family:Arial;
+    text-transform: uppercase;
+}
+
+li:hover{
+    color: rgb(60, 99, 16);
+}
+
+.liste{padding: 2px;}
+
+.lister{display:flex;}
+
+.list{display: flex;}
+
+.lis{display: flex;}
+
+.p1{}
+
+.sa{
+    background-color:
+    #0091ea;
+    width: 100%;
+    height:400px;
+    display: flex;
+   
+}
+
+.sa2ieme{
+    background-color:white);
+    margin-top:20px;
+    width: 100%;
+    height:300px;
+    display: flex;
+}
+
+.sa1{
+    width:50%;
+    height:250px;
+    margin: ;
+    margin:35px;
+   
+}
+
+
+h1{color:
+    #2196f3;
+    font-family:arial;
+}
+
+
+.txt{margin:20px;
+     color:
+     #f9fbe7;
+     font-size: large;
+     font-size:35px;
+     font-family: Arial;
+    }
+
+.txt2{margin:20px;
+   color: #dcedc8;
+}
+
+.bouton{margin:20px; width:100px; 
+        border-radius:5px;
+        padding:5px;
+        text-align: center;
+        background-color:#ff9800;
+        opacity:0.8;
+       
+    }
+
+a:hover{ color:rgb(52, 153, 52);}
+
+a{text-decoration:none; color: white;}
+
+/*  BLOC DROIT */
+.sa2{
+    width:50%;
+    height:250px;
+    float:right;
+   margin-top:80px;
+}
+ /*DEUX IMAGES*/
+.sa22{
+    width:50%;
+    height:250px;
+    float:right;
+    margin:21px;
+    opacity:0.9;
+}
+
+.hoggies{ margin: 0;}
+
+.imgx{
+    width:18px;
+    margin:5px;
+    height:18px;
+    margin-top:-18px;
+}
+
+.pz{font-weight: bold;
+    font-size:14px;
+}
+
+.phaert{font-size:11px;
+        color: rgb(173, 171, 169);
+}
+
+.haert{
+    display: flex;
+    margin:5px;
+    
+}
+
+.row{ 
+    display:inline-block;
+}
+
+.br{font-size:11px;
+margin-left:-18px;}
+
+.sa11{
+    width:50%;
+    margin: 35px;
+    height:250px;
+    color:#a1887f;
+
+}
+ /*  BLOC SUR IMAGE burger DANS MENU*/
+.ima{
+        width:400px;
+        /*height:400px;*/
+        height:220px;
+        margin-top:20px;
+        position: static;
+
+}
+ .font-fa{ font-family:'times New Roman';
+           font-size: 15px;
+}
+
+
+}
+
+.imagex{
+    width: 450px;
+    height: 80px;
+    border-radius:50%;
+   
+}
+/* 
+div.txtburger{
+    border:solid
+}
+div.sa2{
+    border:solid
+}
+
+div.ima{
+    border:solid
+}
+
+*/
+.imageix{
+    width: 200px;
+    height: 200px;
+    margin-top:;
+    position: absolute;
+    border:;
+    border-radius:50%;
+    margin-top: -65px;
+    margin-left:120px;
+    
+}
+
+       
+
+.dollar{font-weight: bolder;
+        opacity: 0.5;
+        font-family: arial;
+        font-size: 14px;
+}
+
+.icon{width: 30px;
+      height: 30px; 
+      margin:3px; 
+      border-radius:8px;
+}
+
+
+
+.icone{
+    width: 15px;
+    height: 15px; 
+    margin:10px; 
+    border-radius:2px;
+    opacity: 0.6;
+}
+
+
+.hit{font-size:12px;
+    color: rgb(95, 94, 92);
+    font-weight:bold;
+} 
+/*div{border:1px solid grey;}*/
+ .SB1{}   
+
+
+
+
+
+h5{color: blue; margin: 10px;}
+
+.pizza{ width: 150px;
+        height:200px;
+        border:solid 8px 
+        #f5f5f5;
+        margin-top:20px;
+        position: absolute;
+        margin-left:150px;
+}
+
+.pizzat{ width: 150px;
+    height:200px;
+    border:solid 8px 
+#fffde7;
+    margin-top:80px;
+    margin-left:290px;
+   
+}
+
+.bestfood{margin: 10px;
+          color:#a1887f;
+          font-family:'Times New Roman';
+          font-size:15px;
+            
+}
+
+.view{
+    width:60px;
+    color: white;
+    height: 20px;
+    background-color: blue;
+    border-radius:8px;
+    padding: 10px;
+    text-align: center;
+    margin:10px;
+    opacity: 0.6;
+    
+}
+
+.view:hover{ color:green;}
+
+.pizza2{ width: 180px;
+    height:200px; 
+    border-radius:6px;
+    margin: 5px;
+}
+
+.imgassocie{ display: flex;
+    padding: 25px;
+    border-left:1px solid rgb(200, 199, 201);
+}
+
+
